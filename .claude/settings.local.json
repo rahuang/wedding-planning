@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__google-sheets__list_spreadsheets",
+      "mcp__google-sheets__get_sheet_data",
+      "mcp__google-sheets__update_cells",
+      "mcp__google-sheets__batch_update",
+      "Bash(pdftotext \"/Users/rickhuang/wedding/venues/foxhouse/The Fox House - Wedding Susie Lee - TFH020326.v1.pdf\" /tmp/foxhouse.txt)",
+      "Read(//tmp/**)",
+      "Bash(pdftotext \"/Users/rickhuang/wedding/venues/lake millstatt/Wedding_Brochure_Millstatt_compressed.pdf\" /tmp/millstatt.txt)",
+      "Bash(pdftotext \"/Users/rickhuang/wedding/venues/six senses douro valley/Six Senses Douro Valley - Weddings.pdf\" /tmp/sixsenses.txt)",
+      "Bash(pdftotext \"/Users/rickhuang/wedding/venues/mas del sord/YOUR DREAM WEDDING AT MAS DEL SOR-3.pdf\" /tmp/masdelsord.txt)",
+      "Bash(pdftotext \"/Users/rickhuang/wedding/venues/roxbury barns/Roxbury-Barn-and-Estate-Wedding-Information-2027.pdf\" /tmp/roxbury.txt)",
+      "mcp__google-sheets__list_sheets",
+      "Bash(pdftoppm -f 7 -l 16 -r 200 -png \"/Users/rickhuang/wedding/venues/solar da levada/livro-de-informacoes-i-informations-book-pt-_-en---vis-1-.pdf\" /tmp/solar_levada)",
+      "Read(//private/tmp/**)",
+      "Bash(pdftoppm -f 17 -l 33 -r 200 -png \"/Users/rickhuang/wedding/venues/solar da levada/livro-de-informacoes-i-informations-book-pt-_-en---vis-1-.pdf\" /tmp/solar_levada_b)",
+      "Bash(ls /tmp/solar_levada_b*.png)",
+      "Bash(pdftoppm -f 66 -l 101 -r 200 -png \"/Users/rickhuang/wedding/venues/solar da levada/livro-de-informacoes-i-informations-book-pt-_-en---vis-1-.pdf\" /tmp/solar_levada_c)",
+      "Bash(ls /tmp/solar_levada_c*.png)",
+      "WebFetch(domain:docs.google.com)",
+      "Bash(mkdir -p /tmp/gslides)",
+      "Bash(curl -s \"https://docs.google.com/presentation/d/e/2PACX-1vRQWCAsmhlpq0r0G9YB2ekU6yc6ViYLPxD25KsK_VqXDGoeVU-On3GbDftCtoMAOD3gBbFfa8ahAaDx/pub?start=false&loop=false&delayms=3000\")"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "google-sheets"
+  ],
+  "enableAllProjectMcpServers": true
+}

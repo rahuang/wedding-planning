@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "google-sheets": {
+      "command": "uvx",
+      "args": [
+        "mcp-google-sheets@latest"
+      ],
+      "env": {
+        "SERVICE_ACCOUNT_PATH": "/Users/rickhuang/mcp-server-489604-d23505966310.json",
+        "DRIVE_FOLDER_ID": "1p0_l3KTIyaXRsLzVXG2Ie2kwKZajiGs0"
+      }
+    }
+  }
+}
