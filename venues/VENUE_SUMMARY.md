@@ -1,6 +1,6 @@
 # Wedding Venue Research Summary
 
-Last updated: 2026-03-21
+Last updated: 2026-07-16
 
 Inquiry submitted under the name **Susie Lee** (and Richard). Exploring venues for a wedding likely in **Fall 2027** (Sep-Oct timeframe), with an estimated guest count of **~140-160 guests**.
 
@@ -752,6 +752,329 @@ Inquiry submitted under the name **Susie Lee** (and Richard). Exploring venues f
   - Hair & makeup: EUR 210-730
   - Ceremonial speakers (EN, FR, NL, DE): EUR 1,020-1,650
 - **Key notes:** Rates locked once booking is final. Dutch family living in Italy — easy English communication. Excellent 5-star reviews. Very strong value for money compared to other Italian venues. Rich Renaissance history (Ridolfi/Medici connection). Apartments restored with mix of modern and natural materials.
+
+---
+
+## 26. La Finka 4.1
+
+- **Status: TOP CHOICE — video tour 2026-06-08, in-person tour scheduled 2026-08-20 at 10:00 AM**
+- **Location:** Carretera del Masnou a Granollers, Km 4.1, 08328 **Alella, Barcelona**, Spain
+- **Contact:** Andrea Dolz Edo (Wedding Team) / Miriam Clotet (Wedding Manager) / events@lafinka4punto1.com / miriam@lafinka4punto1.com / +34 931 311 155 / +34 617 729 625
+- **Website:** www.lafinka4punto1.com | @lafinka4.1
+- **Capacity:** Up to 325 banquet (El Saló); 100-500 across 9 spaces depending on configuration
+- **On-site accommodation:** None
+- **Nearest airport:** Barcelona-El Prat (BCN), ~30 min drive
+- **Vibe:** Mediterranean coastal estate with sea + mountain views. 9 versatile spaces ranging from 15th-c manor to industrial concrete nave. Contemporary + heritage blend.
+
+### Pricing Structure (2027)
+
+**Minimum billing (without VAT):**
+
+| Period | Mon-Thu | Fri | Sat | Sun |
+|---|---|---|---|---|
+| **May - Nov 2** (high season) | €16,000 | €22,000 | **€26,000** | €22,000 |
+| **Nov 3 - April** (low season) | €14,000 (Sun-Thu) | €16,000 | €18,000 | — |
+
+*Pre-holiday/holiday dates: €26,000 min*
+
+**Counts toward minimum:** Menus (adult/kids/staff), dinner extras, ceremony, DJ, music tax (SGAE), extra open bar hours, photobooth, stoves, babysitting, cloakroom, starry sky lighting.
+**Does NOT count:** Extra decoration, extra floral, extra rentals, external suppliers.
+
+### Drafted Budget (140 guests, Saturday)
+
+| Item | Cost |
+|---|---|
+| Mediterranean menu (140 @ €189) | €26,460 |
+| Staff menu (1 photographer @ €94.50) | €94.50 |
+| Late snack | INCLUDED |
+| Ceremony at Hivernacle (no officiant) | €2,800 |
+| DJ + sound technician | €1,400 |
+| 1st & 2nd hour open bar | INCLUDED |
+| 3rd hour open bar | €1,540 |
+| 4th hour open bar | €1,540 |
+| SGAE music tax (100 @ €2.75) | €275 |
+| Starry light (Saloon LED) | €600 |
+| Disco balls | €400 |
+| **Subtotal (no VAT)** | **€35,109.50** |
+| **TOTAL + VAT (10%)** | **€38,620.45** |
+
+*Cocktail at Lago adds €8,750 + VAT (≈€62/pp extra). Party at La Nave adds €10,800 + VAT. Dinner at Masia adds €12,775 + VAT. See detailed multi-space upgrade proposal below.*
+
+### Detailed Multi-Space Upgrade Proposal (Received 2026-06-19)
+
+Formal quote from Andrea for 140 guests (suppliers may adjust rates by up to 3%):
+
+| Upgrade | Cost | Includes |
+|---|---|---|
+| **Cocktail at LAGO** | €8,750 + VAT | Kitchen setup at Lago, generator, daylight ceremony (no lighting needed), seating for 30% of guests (high tables + stools, low tables + chairs, chill-out lounge, cushions, rugs), beverage bar, buffet stations, tableware, glassware, **2 wooden portable restrooms**, kitchen tent, decoration, basic sound system, setup/dismantling |
+| **Banquet at MASIA** | €12,775 + VAT | Kitchen setup at Masia, long tables + chairs for 100% of guests, tableware, glassware, cutlery, linens, additional lighting (nighttime dinner), bathrooms shared in Bosque area, generator shared from Nave |
+| **Party at NAVE** | €10,800 + VAT | Sound + lighting setup, generator (also serves Masia banquet), no bathrooms needed (already exists on site) |
+| **TOTAL UPGRADES** | **€32,325 + VAT (~€35,558 incl VAT)** | On top of base €35,109 |
+
+**Bathrooms placed in BOSQUE** (between Lago and Masia) to avoid duplication across both upgrades — smart cost optimization.
+
+**Grand total estimate (140 guests, full multi-space flow):** ~€67,435 + VAT = **~€74,178 incl VAT** (base + all 3 upgrades)
+
+**NOT included in cocktail/aperitivo reception:** Lighting for spaces beyond Jardí/Salón, climate control (heating/AC), shading, generator (starts from €1,600 + VAT).
+
+### Alternative: Banquet in El Jardí (Confirmed by Andrea 2026-07-XX)
+
+Andrea confirmed banquet CAN be held in El Jardí instead of La Masia. Since Jardí is already in the base package, this is the biggest potential cost saver.
+
+**Logistical flow per Andrea:**
+1. Guests arrive via **Parking -2**, walking directly to the ceremony space (never see Jardí)
+2. Aperitivo/cocktail hour on **part of Jardí** (guests enter via same path)
+3. **Other part of Jardí** is already set up for banquet from the beginning (⚠️ may compromise "surprise" reveal if visible during cocktail)
+
+**Cost impact NOT yet confirmed** — need to know if this eliminates the €12,775 Masia charge entirely, or if there are additional production/lighting fees for Jardí evening banquet.
+
+**Potential savings:** Up to €12,775 + VAT (~€14,050 incl VAT) if no additional charges
+
+### Jardí → Nave Transition (Per Andrea)
+
+Andrea did NOT confirm if the walk is comfortable at night without paid entertainment. Instead, she suggested paid options:
+- **Zancudo LED** (stilt walkers with LED)
+- **Batucada LED** (Brazilian drumming with LED)
+- **Mariachis**
+
+Positioned as a "surprise" for guests. Cost unclear (external supplier). Need to confirm at Aug 20 tour if simple walk (or shuttles/golf carts) is feasible without extras.
+
+### Package Rate Request: DENIED
+
+Andrea confirmed (2026-07-XX): NO bundled or package rate available for taking multiple upgrades. Prices are strictly à la carte. Reasoning: "Our prices include two of the spaces that offer the best views on the property, spaciousness, and convenience with all amenities... Therefore, we do not offer a combined package option."
+
+### The 9 Spaces
+
+| Space | Type | Banquet Capacity | Cost Note |
+|---|---|---|---|
+| **El Jardí** | 850 m² outdoor garden, sea/mountain views | 400 | Included in menu price |
+| **El Saló** | 450 m² glass-walled indoor hall (climate controlled) | 325 | Included in menu price (auto rain plan) |
+| **La Masia** | 15th-century manor (dirt floor, intimate) | 250 | Requires rentals (lights, tables, bathrooms, heaters) |
+| **L'Hivernacle** | Iron+glass greenhouse with sea views | 100 | Most economical "alternate" space |
+| **El Lago** | Lake with Japanese carp, partially covered | 100 | No bathrooms nearby |
+| **El Huerto** | Working vegetable garden (chef Cristina) | 250 | Requires rentals |
+| **Les Vinyes** | 200-year-old vineyard, long-table dining | 200 | Requires rentals |
+| **El Bosque** | Centennial oak woods, 1,300 m² | 500 | Requires rentals |
+| **La Nave** | 750 m² industrial concrete space | 500 | €10,800 + VAT production (includes setup, sound, lights, generator) — no bathrooms needed |
+
+**Pricing tier insight:** The €189/pp + €38K budget covers Saló + Jardí only. Other spaces require rental supplements (lights, tables, bathrooms for some). L'Hivernacle is the cheapest alternative.
+
+### Ceremony Pricing
+
+- **Hivernacle ceremony:** **€2,800 + VAT** (up to 100 ppl) — iron benches, cushions, sea views, flowers, sound, music
+- **Other spaces (Lago/Bosque/Huerto/Masia/Vinyes):**
+  - Up to 50: €3,100 + VAT
+  - 50-100: €3,700 + VAT
+  - 150-200: €4,580 + VAT
+  - 200-250: €4,800 + VAT
+- *Officiant NOT included in any package*
+
+### Menu Options
+
+- **Mediterranean:** €189/pp + VAT (our planned)
+- Also available: Market, Cocktail, Italian
+- Children's menu: €65/child (3 options)
+- Staff menu: 50% of adult menu (~€94.50)
+- Vegetarian/vegan/gluten-free options available
+- **Menu tasting details:** Included for 2-6 ppl based on guest count (100+ = 6 ppl, 70-90 = 4 ppl, ≤70 = 2 ppl). Extra tasters €120/pp. Tues-Thurs midday only, Nov 2026 or Jan-Mar 2027.
+- **Late-night snack included:** Choice of assorted savory mini sandwiches OR donut bar
+- **⚠️ CPI adjustment risk:** Menu prices may be increased per CPI in 2027 — need to lock at contract signing
+
+### Bar / Drinks
+
+- **2 hours "open bar" INCLUDED — but only AFTER the banquet (during the party)**
+- **Premium open bar upgrade:** +€14/pp (~€1,960 for 140 guests) to upgrade from mid-range to premium alcohol
+- **During cocktail hour (1.5 hr) and dinner (2 hr):** Wines (D.O. Alella — local, vegan, organic), beers, soft drinks, mineral water, coffee, infusions, and "liquors" (⚠️ ambiguous — likely digestifs like limoncello/cognac, NOT full spirits/cocktails). Cocktails during cocktail hour NOT confirmed as included.
+- Extra open bar hour: **€11/pp/hr** (min €1,100/hr — applies to total guests except kids)
+- Wine cellar: D.O. Alella (local Alella-region wines). Oenologist attends menu tasting to help select.
+- Candy bowls included
+
+### Table Math for 140 Guests
+
+- Base package includes 12 round tables of 10 people (100 guests)
+- 140 guests = 14 tables → **2 extra tables needed**
+- Additional table cost: **€90 + VAT per table** = €180 + VAT
+- Additional linen/centerpiece cost: **€185 + VAT per table** (applies when exceeding base allocation) = €370 + VAT
+- ⚠️ **Total extra table cost: ~€550 + VAT (~€666 incl VAT)** — needs clarification whether both charges apply
+
+### Music Rules
+
+- **Indoor music until 3:00 AM** (max 94 dBA)
+- **Outdoor ambient music ends 10:00 PM** (max 70 dBA)
+- DJ + sound tech: €1,400 (meals included). Doubles as day-of sound technician.
+- SGAE music tax: €2.75/guest
+
+### What's Included in Menu Price (€189/pp + VAT)
+
+- Detailed gastronomic menu
+- Furniture (round tables), tableware, detailed wine selection, 2 hrs open bar
+- Menu tasting (6 ppl for 100+ guests)
+- Menu cards, table plan, name tags, seating chart
+- Late-night snack (mini sandwiches OR donut bar)
+- Use of parking inside the property
+- Dedicated staff for duration of celebration
+- Commercial advisor to assist with menu selection
+- **Event planner service** to guide preparation and organization
+- **Stylist assistance** for personalizing decoration of all spaces and details
+- Floral arrangements + decoration in common areas + centerpieces (from their selection)
+- Waiters, supervisor, chef, cooks
+- Exclusive use (1 event/day)
+- ⚠️ Quoted for **El Saló + El Jardí** in exclusive use. Other spaces require supplements.
+
+### Additional Services
+
+| Service | Cost |
+|---|---|
+| Cloakroom (up to 130 guests) | €310 |
+| Cloakroom (130-170 guests) | +€150 supplement |
+| Babysitting (2yr+, up to 8 kids, aperitif + banquet) | €210 |
+| Outdoor stove | €75/unit (6 available) |
+| Umbrella | €75/unit (2 available) |
+| Extra table linen + centerpiece (above 200 guests / 20 tables) | €185/table + VAT |
+| External supplier management (optional) | €750 |
+
+### Vendor Policy
+
+- **Catering: EXCLUSIVE with SAROVA** (in-house, on-site kitchen) — no exceptions
+- **All other vendors: external welcome, no extra fee** (photographer, videographer, florist, etc.)
+- La Finka team serves as day-of coordinator (no separate cost)
+- DJ doubles as sound technician (must be present anyway)
+
+### Payment Terms
+
+1. **€3,000** to reserve (locks in date)
+2. **€2,000** before menu tasting
+3. **80%** of minimum billing — 30 days before event
+4. **Remaining %** — 10 days before (after final guest count, **no refunds after**)
+5. Final guest count confirmed 15 days before (with variation) / 10 days before (locked)
+
+### Key Logistics from Tour
+
+- **Couple gets 1 hour early access** for photos (free). More time = extra cost.
+- **Buses from Barcelona** are the most economical guest transport (couples book directly)
+- **Golf cart shuttles** available between spaces (book a few days ahead) for older guests
+- **No bathrooms at El Lago**
+- **Walk from Jardí → Lago → Masia** is ~5 min, easy but unclear if lit after sunset (asked)
+
+### Typical Wedding Day Flow (Per Andrea)
+
+| Time | Event |
+|---|---|
+| 5-6 PM | Ceremony |
+| 6-8 PM | Cocktail |
+| 8-10 PM | Dinner |
+| 10 PM-2 AM | Party (must be indoors per noise rules) |
+
+Couples typically pick ONE alternate space (e.g. Lago for ceremony) and use Saló+Jardí for everything else to keep costs manageable.
+
+### Our Proposed Flow (Pending Andrea's Feedback)
+
+| Time | Event | Space |
+|---|---|---|
+| 30 min | Welcome drinks | El Jardí |
+| 45 min | Ceremony | L'Hivernacle |
+| 2 hrs | Cocktail | El Lago |
+| 2 hrs | Dinner | La Masia OR El Jardí |
+| 3-4 hrs | Party | La Nave |
+
+### Answered Questions
+
+**From Andrea 2026-06-09:**
+- **Hivernacle ceiling plants:** Foliage naturally dries and is replaced throughout the season. Intent is for it to blend with the structure/benches/flooring color palette. Additional floral decor available via their florist (extra cost).
+- **Sep/Oct 2027 availability:** As of Jun 9, 2026, ONLY **Sat Sept 4** and **Sat Oct 16** are already booked. All other Sat/Fri/Sun in Sep-Oct 2027 OPEN.
+- **Preferred vendor list:** Only shared AFTER booking.
+- **Welcome snacks setup:** Flavored water station next to Hivernacle. Included menu snacks can go on same table.
+- **Starry Light + Disco Balls:** Both are OPTIONAL SALÓN-only extras. If party is at NAVE, these are NOT needed → saves €1,000.
+- **La Nave inclusions:** Sound + lighting setup + generator (also covers Masia banquet). No bathrooms needed since they exist on-site.
+- **Lago cocktail inclusions:** Detailed list received (see Multi-Space Upgrade above).
+- **Masia banquet inclusions:** Detailed list received (see Multi-Space Upgrade above).
+
+**From Andrea 2026-07-XX (latest exchange):**
+- **Jardí banquet possible:** YES. Guests bypass Jardí via Parking -2, aperitivo on part of Jardí, other part pre-set for banquet. ⚠️ Cost impact NOT confirmed.
+- **Jardí → Nave night walk:** Andrea suggested paid entertainment (Zancudo LED, Batucada LED, Mariachis). Did NOT confirm if plain walk / shuttles / golf carts are viable alternatives.
+- **Bundle/package rate:** DENIED. No package pricing available; strictly à la carte for upgrades.
+- **CPI adjustment:** Confirmed — menu prices may increase per CPI in 2027 (from menu doc). Need to lock in at contract.
+
+**From menu docs (2026-07-15):**
+- **Music curfew confirmed:** 3 AM indoor (94 dBA), 10 PM outdoor (70 dBA). Party ends by 3 AM regardless of Nave being indoor.
+- **Table math:** Base includes 12 tables for 100 guests; €90/extra table + potentially €185/extra table for linen/centerpiece.
+- **Premium open bar upgrade exists:** +€14/pp.
+- **Wine:** D.O. Alella (local, vegan, organic). Oenologist attends tasting.
+- **Late night snack options:** Mini savory sandwiches OR donut bar.
+
+### Still Open Questions (Awaiting Response)
+
+**Sent 2026-07-XX (awaiting Andrea's reply):**
+1. **Recommended vendor list / ballpark prices** (transportation, florist, Zancudo/Batucada, live musicians)
+2. **La Nave visuals** — photos AND in-person access on Aug 20 (was closed during video tour)
+3. **Drinks during cocktail hour and dinner** — is "liquors" = digestifs or spirits? Are cocktails available during 1.5 hr cocktail hour?
+
+**For Aug 20 tour:**
+1. Fireworks allowed? Cost?
+2. Lights along Jardí → Lago → Masia after sunset?
+3. **Jardí banquet cost impact** — does it eliminate the €12,775 Masia charge?
+4. Salón extras (Starry Light + Disco Balls) removal confirmation
+5. Extra table math clarification for 140 guests (€90 OR €185 per extra table, or both?)
+6. Bail deposit refund conditions
+7. 2027 price lock / CPI cap at contract
+8. Premium open bar worth the €1,960 upgrade?
+9. Cocktail bar / spirits upgrade cost during cocktail hour
+10. External supplier management fee (€750) waiver
+11. DJ + Nave sound tech overlap (is €1,400 needed if Nave has its own setup?)
+
+### Pros
+
+- 9 distinct spaces to mix & match — extremely flexible
+- Sea + mountain views from Jardí
+- **Exceptional value** (~€38K for 140 — best value of our top-tier choices)
+- Only 30 min from BCN airport (easy for international guests)
+- SAROVA in-house catering acclaimed
+- External vendors welcome (except catering)
+- Party until 3 AM indoors
+- Tour was great — Andrea responsive and warm
+
+### Cons
+
+- No on-site accommodation (guests need Barcelona/Alella hotels)
+- Multi-space flow adds **€32,325 + VAT (~€35K)** on top of base — nearly doubles total cost
+- **No package/bundle discount** — Andrea explicitly declined
+- Lago cocktail upgrade: €8,750 + VAT
+- Nave party production: €10,800 + VAT
+- Masia banquet: €12,775 + VAT (unless we do Jardí banquet alternative)
+- Cocktail hour drinks may not include spirits/cocktails (only wine, beer, water, digestifs)
+- Outdoor music ends 10 PM (party must be indoors)
+- SAROVA catering only (no flexibility)
+- Preferred vendor list only shared AFTER booking (limits pre-booking due diligence)
+- CPI adjustment on menu prices possible — need to lock at contract
+- Table math for 140 guests adds ~€550 + VAT in extras
+- Jardí → Nave night transition may push toward paid entertainment (Zancudo/Batucada/Mariachis) rather than simple walk
+- Only 2 Sept/Oct 2027 dates already booked — good availability, but need to move soon on the dates we want
+
+### Grand Total Scenarios (140 guests, Saturday, all incl VAT)
+
+| Scenario | Total (incl VAT) | Notes |
+|---|---|---|
+| **Base package** (Saló + Jardí only, Hivernacle ceremony) | **~€38,620** | Simplest, cost-friendly |
+| **Base + Lago cocktail only** | **~€48,245** | One "wow" moment |
+| **Base + Lago + Nave + Jardí banquet** | **~€60,000 (est.)** | Multi-space WITHOUT Masia — if Jardí banquet is truly no extra cost |
+| **Full multi-space flow** (base + Lago + Masia + Nave) | **~€74,178** | Original vision |
+
+*Note: Add ~€550-€666 for extra table math (2 extra tables + linen/centerpiece for 140 guests). Premium open bar upgrade: +€1,960.*
+
+### Key Notes
+
+- **Timeline:** Initial inquiry Apr 22, 2026 → video tour Jun 8, 2026 → detailed 3-space proposal Jun 19, 2026 → follow-up email exchange Jul 8-15, 2026 → **in-person tour scheduled Aug 20, 2026 at 10:00 AM**
+- Andrea confirmed **Jardí banquet is possible** (alternative to Masia, potentially saves €12,775) but cost impact not yet confirmed
+- Andrea denied bundle/package discount request
+- Andrea's suggested Jardí→Nave transition involves paid entertainment (Zancudo LED, Batucada, Mariachis)
+- **Sep 4 and Oct 16, 2027 already booked**; other Sep/Oct Saturdays still available
+- Bathrooms clever placement: 1 set in Bosque serves both Lago cocktail AND Masia banquet (no duplication)
+- Nave generator also powers Masia banquet (shared infrastructure = smart cost design)
+- Suppliers may adjust rates by up to 3% between now and event
+- **Menu prices may adjust per CPI** — must lock at contract signing
+- Preliminary budget Excel already provided
+- WeTransfer photo links provided by Andrea showing past wedding setups
+- La Nave was CLOSED during video tour — must see in person on Aug 20
 
 ---
 
